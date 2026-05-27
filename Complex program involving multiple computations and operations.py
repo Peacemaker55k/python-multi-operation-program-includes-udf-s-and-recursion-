@@ -20,7 +20,7 @@ def Stack_Reversal():
     print("2.Enter a decimal number into stack")
     print("3.Enter a string into stack")
     S=[]
-    c=''
+    c='y'
     while c in 'Yy':
         try:
             T=int(input("Make your choice from Stack menu:-"))
